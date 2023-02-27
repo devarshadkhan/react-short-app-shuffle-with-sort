@@ -26,9 +26,9 @@ const Post = ({ data }) => {
           return (
             <>
               <div className="wrp">
-                <h6 style={{fontSize:"2rem"}}>Id: {id} </h6>
-                <h3 style={{fontSize:"2rem"}}>Title: {title}</h3>
-                <p style={{fontSize:"1.5rem"}}>Post: {body}</p>
+                <h6 style={{}}>Id: {id} </h6>
+                <h3 style={{}}>Title: {title}</h3>
+                <p style={{}}>Post: {body}</p>
               </div>
             </>
           );

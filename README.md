@@ -1,1 +1,1 @@
-# MNC's Interview Queation in React JS
+# MNC's Interview Question in React JS
